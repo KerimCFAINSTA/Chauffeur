@@ -199,10 +199,6 @@ Projet réalisé dans le cadre du **BTS SIO SLAM** (Services Informatiques aux O
 🏢 Alternance : Abby Ambers  
 📧 Contact : [kocakerimpro@gmail.com]
 
-##  Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
 ##  Remerciements
 
 - Bootstrap pour le framework CSS
