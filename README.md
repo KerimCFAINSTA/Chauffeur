@@ -14,16 +14,16 @@ Plateforme complète de gestion de courses VTC permettant aux clients de réserv
 ##  Fonctionnalités
 
 ### Gestion des Courses
-- ✅ Réservation de courses avec sélection date/heure
-- ✅ Calcul automatique du tarif (forfait + prix au km)
-- ✅ Suivi des trajets (adresse départ/arrivée)
-- ✅ Statuts : En attente, En cours, Terminée, Annulée
+- Réservation de courses avec sélection date/heure
+- Calcul automatique du tarif (forfait + prix au km)
+- Suivi des trajets (adresse départ/arrivée)
+- Statuts : En attente, En cours, Terminée, Annulée
 
 ### Gestion des Chauffeurs
-- ✅ CRUD complet (Create, Read, Update, Delete)
-- ✅ Informations : nom, prénom, téléphone, véhicule, immatriculation
-- ✅ Gestion de la disponibilité
-- ✅ Historique des courses par chauffeur
+- CRUD complet (Create, Read, Update, Delete)
+- Informations : nom, prénom, téléphone, véhicule, immatriculation
+- Gestion de la disponibilité
+- Historique des courses par chauffeur
 
 ### Gestion des Clients
 - ✅ CRUD complet
@@ -32,10 +32,10 @@ Plateforme complète de gestion de courses VTC permettant aux clients de réserv
 - ✅ Suivi des courses actives
 
 ### Interface Utilisateur
-- ✅ Design responsive Bootstrap 4
-- ✅ Navigation intuitive
-- ✅ Formulaires de réservation simplifiés
-- ✅ Tableaux de bord avec statistiques
+- Design responsive Bootstrap 4
+- Navigation intuitive
+- Formulaires de réservation simplifiés
+- Tableaux de bord avec statistiques
 
 ##  Stack Technique
 
@@ -161,10 +161,10 @@ http://localhost/vtc-reservation/
 
 ##  Sécurité
 
-- ✅ Requêtes préparées PDO (protection injection SQL)
-- ⚠️ À implémenter : Authentification utilisateur
-- ⚠️ À implémenter : Validation côté serveur renforcée
-- ⚠️ À implémenter : Protection CSRF
+- Requêtes préparées PDO (protection injection SQL)
+- À implémenter : Authentification utilisateur
+- À implémenter : Validation côté serveur renforcée
+- À implémenter : Protection CSRF
 
 ##  Roadmap / Améliorations Futures
 
@@ -195,8 +195,7 @@ Projet réalisé dans le cadre du **BTS SIO SLAM** (Services Informatiques aux O
 
 ##  Auteur
 
-**Kerim** - Étudiant BTS SIO SLAM 2ème année  
-🏢 Alternance : Abby Ambers  
+**Kerim** - Étudiant BTS SIO SLAM 2ème année    
 📧 Contact : [kocakerimpro@gmail.com]
 
 ##  Remerciements
